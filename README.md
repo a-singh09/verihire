@@ -2,6 +2,19 @@
 
 VeriHire transforms recruitment by combining **World ID verification**, **zero-knowledge proofs**, and **soul-bound NFT credentials** to create a privacy-preserving, sybil-proof hiring platform. Built for the World ecosystem with native World Chain integration.
 
+## 🚀 Try VeriHire Now!
+
+**Live World Mini App**: [Open in World App in your phone](https://worldcoin.org/mini-app?app_id=app_262625576fcf57ca6e9305505836d63c&draft_id=meta_38d78980ab34f6c94ef384430babce90)
+
+### Scan QR Code to Access:
+
+<div align="center">
+  <img src="assets/verihire-qr-code.png" alt="VeriHire World Mini App QR Code" width="300" height="300">
+  <p><em>Scan with World App to try VeriHire instantly!</em></p>
+</div>
+
+> **Note**: You need the World App installed on your mobile device to access the Mini App. Download from [worldcoin.org](https://worldcoin.org/download-app).
+
 ## 🌟 Key Features (Implemented)
 
 ### ✅ World ID Integration
