@@ -9,7 +9,7 @@ VeriHire transforms recruitment by combining **World ID verification**, **zero-k
 ### Scan QR Code to Access:
 
 <div align="center">
-  <img src="assets/verihire-qr-code.png" alt="VeriHire World Mini App QR Code" width="300" height="300">
+  <img src="assets/verihire-qr-code.jpeg" alt="VeriHire World Mini App QR Code" width="300" height="300">
   <p><em>Scan with World App to try VeriHire instantly!</em></p>
 </div>
 
